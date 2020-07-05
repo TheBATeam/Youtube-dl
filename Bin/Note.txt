@@ -1,0 +1,3 @@
+Please Get the Plugin from the "Source Code" folder...as plugin has big size and we are avoiding to increase the size of the project unnecessarily. 
+
+Hope, you agree with us. Feel free to visit us @: www.thebateam.org
